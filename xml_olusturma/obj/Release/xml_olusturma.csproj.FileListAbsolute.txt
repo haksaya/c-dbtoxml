@@ -1,0 +1,8 @@
+C:\Users\Ofis\Documents\Visual Studio 2017\Projects\xml_olusturma\xml_olusturma\bin\xml_olusturma.dll.config
+C:\Users\Ofis\Documents\Visual Studio 2017\Projects\xml_olusturma\xml_olusturma\bin\xml_olusturma.dll
+C:\Users\Ofis\Documents\Visual Studio 2017\Projects\xml_olusturma\xml_olusturma\bin\xml_olusturma.pdb
+C:\Users\Ofis\Documents\Visual Studio 2017\Projects\xml_olusturma\xml_olusturma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ofis\Documents\Visual Studio 2017\Projects\xml_olusturma\xml_olusturma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ofis\Documents\Visual Studio 2017\Projects\xml_olusturma\xml_olusturma\obj\Release\xml_olusturma.csproj.CoreCompileInputs.cache
+C:\Users\Ofis\Documents\Visual Studio 2017\Projects\xml_olusturma\xml_olusturma\obj\Release\xml_olusturma.dll
+C:\Users\Ofis\Documents\Visual Studio 2017\Projects\xml_olusturma\xml_olusturma\obj\Release\xml_olusturma.pdb
